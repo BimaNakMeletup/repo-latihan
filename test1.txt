@@ -6,5 +6,9 @@ nyoba merge doang biar tabrakan
 
 test edit
 
+
+nyoba edit biar tabrakan aja dari branch 2 ke 1
+
 nyoba edit dari branch 2
+
 
